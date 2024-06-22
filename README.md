@@ -1,6 +1,6 @@
 # ecommerce_shop
 
-A new Flutter project.
+E-Commerce for Slash task.
 
 ## Getting Started
 
